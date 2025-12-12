@@ -1,0 +1,2 @@
+pyinstaller --onefile --windowed --icon=favicon.ico --add-data="favicon.ico;." --add-data="C:\Users\dappec\AppData\Local\Programs\Python\Python313\Lib\site-packages\emoji\unicode_codes;emoji/unicode_codes" health-check.py
+
